@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LineChartBase">
+        <attr name="solidlineTextColor" format="reference|color" />
+        <attr name="dashedlineTextColor" format="reference|color" />
+        <attr name="solidCircleColor" format="reference|color" />
+        <attr name="dashedCircleColor" format="reference|color" />
+        <attr name="linePointRadio" format="dimension" />
+        <attr name="xsize" format="dimension" />
+        <attr name="ysize" format="dimension" />
+        <attr name="lineWidth" format="dimension" />
+        <attr name="xAxisTextSize" format="dimension" />
+        <attr name="xAxisTextColor" format="reference|color" />
+        <attr name="brokenLineTextSize" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="AutoScaleRelativeLayout">
+        <attr name="itemMarginTop" format="dimension" />
+        <attr name="bottomMarginTop" format="dimension" />
+        <attr name="yOffsetStep" format="dimension" />
+        <attr name="widthHeightRate" format="float" />
+    </declare-styleable>
+
+</resources>
