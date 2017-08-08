@@ -10,6 +10,7 @@ android 开发常用库：
 # Download
 
   use Gradle:
+  
   repositories {
         maven { url 'https://jitpack.io' }
     }
