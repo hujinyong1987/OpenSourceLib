@@ -7,3 +7,13 @@ android 开发常用库：
   stetho
 
 
+# Download
+
+  use Gradle:
+  repositories {
+        maven { url 'https://jitpack.io' }
+    }
+    
+    dependencies {
+      compile 'com.github.opensourceandroid:OpenSourceLib:v1.0'
+    }
