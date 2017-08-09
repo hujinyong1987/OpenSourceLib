@@ -41,7 +41,6 @@ dependencies {
 
     // retrofit2 + rxjava2 + gson
     compile 'io.reactivex.rxjava2:rxjava:2.1.0'
-    compile 'com.blankj:utilcode:1.6.4'
     compile 'com.squareup.retrofit2:retrofit:2.2.0'
     compile 'com.squareup.retrofit2:converter-gson:2.2.0'
     compile 'com.squareup.retrofit2:adapter-rxjava2:2.2.0'
@@ -68,6 +67,9 @@ dependencies {
         exclude module: "support-v13"
     }
     annotationProcessor "com.github.hotchemi:permissionsdispatcher-processor:2.4.0"
+
+
+    compile 'com.blankj:utilcode:1.6.4'
 
     //test
     compile 'com.facebook.stetho:stetho:1.5.0'
