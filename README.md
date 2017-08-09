@@ -30,7 +30,7 @@ Step 2. Add the dependency
 dependencies {
 	        compile 'com.github.opensourceandroid:OpenSourceLib:v1.2'
 	}
-```Gradle
+```
 
 
 
