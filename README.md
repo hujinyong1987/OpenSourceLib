@@ -1,6 +1,6 @@
 # OpenSourceLib
 [![](https://jitpack.io/v/opensourceandroid/OpenSourceLib.svg)](https://jitpack.io/#opensourceandroid/OpenSourceLib)
-[![API](https://img.shields.io/badge/API-23%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=14)
+[![API](https://img.shields.io/badge/API-14%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=14)
 
 android 开发常用库：
   retrofit2 + rxjava2 + gson + glide
