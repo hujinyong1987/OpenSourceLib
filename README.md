@@ -18,3 +18,6 @@ android 开发常用库：
     dependencies {
       compile 'com.github.opensourceandroid:OpenSourceLib:v1.0'
     }
+
+
+[![](https://jitpack.io/v/opensourceandroid/OpenSourceLib.svg)](https://jitpack.io/#opensourceandroid/OpenSourceLib)
