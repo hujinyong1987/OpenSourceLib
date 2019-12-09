@@ -4,7 +4,9 @@ buildscript {
     repositories {
         maven { url 'http://maven.aliyun.com/nexus/content/repositories/jcenter/' }
         google()
-        jcenter()
+        jcenter() { url 'http://jcenter.bintray.com/' } // https -> http
+        maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' } // maven aliyun mirror
+        maven { url 'https://dl.google.com/dl/android/maven2/' } // google()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.5.2'
