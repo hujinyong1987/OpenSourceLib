@@ -10,6 +10,8 @@ class SingletonTest {
 
 
     static int a;
+
+    int b  =12;
     private SingletonTest() {
 
 
