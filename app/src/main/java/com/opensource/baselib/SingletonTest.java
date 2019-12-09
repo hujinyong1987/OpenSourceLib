@@ -11,7 +11,7 @@ class SingletonTest {
 
     static int a;
 
-    static int c = 14;
+    static int c = 15;
     private SingletonTest() {
 
 
